@@ -132,4 +132,10 @@ Amazon customer Reviews Dataset. (n.d.). Retrieved April 08, 2021, from: [https:
 
 - - -
 
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+# Conclusion
+
+* We can see that the percentage of **5-star reviews** in Vine is very close to non-Vine reviews *(51% to 50.5%)*.
+
+* Although the number of Vine reviews is pretty low, so far it can still represent the product. However, the **average rating from Vine customers is 4.38** with **std deviation of 0.78**, and this is much higher than the **3.77 (std deviation: 1.51) from non-Vine customers**. It is obvious that **non-Vine reviews are more diverse than Vine reviews** which got motivated to give higher ratings.
+
+* I believe the Vine customers tend to give higher ratings and pretty focusing on the higher ratings too. So reviews from Vine customers **are not that trustworthy** for me.
